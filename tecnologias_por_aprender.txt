@@ -1,0 +1,7 @@
+----------------------------- Tecnologias por Aprender ---------------------
+* Django 
+* Git
+* PostgreSQL
+* MongoDB
+* React
+* Kotlin
